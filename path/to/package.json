@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^latest_version",
-    "@typescript-eslint/parser": "^latest_version"
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0"
   }
 } 
